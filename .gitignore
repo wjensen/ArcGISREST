@@ -1,0 +1,12 @@
+*.csproj.user
+*.resharper.user
+*.resharper
+*.suo
+*.cache
+obj
+bin
+Bin
+_ReSharper.*
+*.user
+
+/GeneticsApplication/Solutions/TestResults
